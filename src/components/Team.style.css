@@ -1,0 +1,12 @@
+div.team {
+    width: 20%;
+    border: 1px solid gray;
+    text-align: center;
+    height: 400px;
+    margin-top: 5px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
